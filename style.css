@@ -1,0 +1,270 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+  /* Style the top navigation bar */
+  .topnav {
+    overflow: hidden;
+    background-color: white;
+    border-bottom: 2px solid grey;
+    box-shadow: rgb(230, 230, 230);
+
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+  .one{
+    margin-left: 750px;
+  }
+  .search{
+    width: 160px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: blue;
+    border-radius: 15px;
+    border-color: blue;
+    color: white;
+    
+  }
+  .bxs-message-rounded-detail{
+  color: black;
+  text-align: center;
+  
+  }
+  .first{
+    margin-top: 100px;
+    margin-left: 50px;
+  }
+  .head1{
+    
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .para1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -25px;
+  }
+  .circle1{
+    background-image: radial-gradient(circle,rgb(93 31 169),rgb(93 31 169),rgb(187 29 187));
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    margin-left: 750px;
+    margin-top: -150px;
+  }
+  .photo1{
+    margin-left:800px ;
+    margin-top: -350px;
+  }
+  .symbol1{
+    margin-left: 720px;
+    color: rgb(93, 31, 169);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -110px;
+  }
+  .symbol2{
+    margin-left: 1080px;
+    font-size: 40px;
+    color:rgb(93, 31, 169) ;
+    margin-top: -370px;
+  }
+  .b{
+    margin-top: 130px;
+    margin-left: 55px;
+  }
+  .c{
+    margin-top: -45px;
+    margin-left: 190px;
+  }
+  .d{
+    background-color: rgb(93 31 169);
+    height: 200px;
+    width: 100%;
+    margin-top: 200px;
+  }
+  .para2{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+    
+  }
+  .middle1{
+    margin-top: -190px;
+  }
+  .logo1{
+    margin-left: 45%;
+    margin-top: -10px;
+  }
+  .circle2{
+    background-image: radial-gradient(circle,rgb(93 31 169),rgb(93 31 169),rgb(49,0,95));
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+    margin-left: 55px;
+    margin-top: 233px;
+  }
+  .photo2{
+    margin-left:145px ;
+    margin-top: -327px;
+  }
+  .logo2{
+    margin-left: 600px;
+    font-size: 50px;
+    margin-top: -377px;
+  }
+  .logo2base{
+    text-align: center;
+  }
+  .symbol3{
+    margin-left: 382px;
+    color: rgb(93, 31, 169);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -174px;
+  }
+  .symbol4{
+    margin-left: 83px;
+    font-size: 40px;
+    color:rgb(93, 31, 169) ;
+    margin-top: 253px;
+  }
+  .logo3{
+    margin-left: 941px;
+    font-size: 50px;
+    margin-top: -392px;
+  }
+  .logo3base{
+    margin-left: 684px;
+    margin-top: 0px;
+    text-align: center;
+  }
+  .logo4{
+    margin-left: 600px;
+    font-size: 50px;
+    margin-top: 49px;
+  }
+  .logo4base{
+   
+    text-align: center;
+  }
+  .logo5{
+    margin-left: 947px;
+    font-size: 50px;
+    margin-top: -167px;
+  }
+  .logo5base{
+    margin-left: 684px;
+    margin-top: 0px;
+    text-align: center;
+  }
+  .main{
+    background-color: lightgray;
+    width: 100%;
+    height: 434px;
+    margin-top: 88px;
+  }
+  
+  .circle3{
+    background-image: radial-gradient(circle,rgb(187 29 187),rgb(113 71 153),rgb(49 0 95));
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    margin-left: 804px;
+    margin-top: -382px;
+  }
+  .head3{
+    margin-top: -247px;
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 155px;
+  }
+  .para3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left:155px ;
+  }
+  .main1{
+    margin-left: 0px;
+    margin-top: 135px;
+  }
+  .head4{
+    color: white;
+    font-size: 53px;
+    margin-top: -330px;
+    margin-left: 135px;
+  }
+  .head5{
+    color: white;
+    font-size: 53px;
+    margin-top: -34px;
+    margin-left: 134px;
+  }
+  .downloadbutton{
+    width: 160px;
+    height: 30px;
+    color: white;
+    border-radius: 15px;
+    background-color: unset;
+    border-color: white;
+    border-style: groove;
+    margin-left:134px ;
+  }
+  .middle2{
+    
+      background-color: rgb(93 31 169);
+      height: 350px;
+      width: 100%;
+      margin-top: 00px;
+    }
+    .head6{
+      margin-left: 528px;
+      color: white;
+      margin-top: -190px;
+    }
+  
+  .b1{
+    margin-top: 0px;
+    margin-left: 470px;
+  }
+  .c1{
+    margin-top: -45px;
+    margin-left: 600px;
+}
+.copy1{
+  font-size: small;
+  text-align: center;
+  color: aliceblue;
+  margin-top: -60px
+}
+.copy2{
+  font-size: small;
+  color: aliceblue;
+  text-align: center;
+}
+.bottom1{
+   width: 100%;
+    height: 111px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 60px;
+}
+.message{
+  margin-top: -38px;
+  margin-left: 803px;
+}
+.message1{
+  margin-left: 308px;
+}
+
+
+  
+  
